@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+body {
+    margin: 8px;
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    margin: 0.67em 0;
+}
+
+a {
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+p {
+    text-align: center;
+    margin: 21px 0;
+    font-size: 21px;
+}
+
+h2 {
+    font-size: 42px;
+    margin: 0.83em 0;
+    font-weight: 300;
+    text-align: center;
+}
+
+h4 {
+    color: gray;
+    font-size: 21px;
+    font-weight: 400;
+    text-align: center;
+    margin: 21px
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
